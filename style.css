@@ -1,0 +1,51 @@
+body {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#timer {
+    width: 170px;
+    height: 50px;
+    font-size: 40px;
+    background-color: black;
+    color: rgb(238, 255, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+  #counter {
+      background-color: black;
+      color: white;
+      display: table;
+      padding: 10px;
+    }
+
+#submit {
+    width: 100px;
+    margin-top: 15px;
+    font-weight: bolder;
+    color: rgb(238, 255, 0);
+    background-color: tomato;
+    border-radius: 5px;
+}
+
+#pause {
+    height: 28px;
+}
+
+#timer2 {
+    width: 170px;
+    height: 50px;
+    font-size: 40px;
+    background-color: black;
+    color: rgb(238, 255, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
